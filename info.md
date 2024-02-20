@@ -13,8 +13,8 @@ The Legendary Bot is a functional and useful Discord bot:
 
 ## Links
 
-> [Support]([https://discord.gg/BQumAujuvk](https://discord.gg/zZjXxYQcUv))
+> [Support](https://discord.gg/BQumAujuvk)
 
-> [Youtube Channel]([https://www.youtube.com/@legendarysocial])
+> [Youtube Channel][https://www.youtube.com/@legendarysocial)
 
-> [App Directory]([https://discord.com/application-directory/965903240384376872](https://discord.com/application-directory/1042779235703590913)https://discord.com/application-directory/1042779235703590913)
+> [App Directory](https://discord.com/application-directory/1042779235703590913)
