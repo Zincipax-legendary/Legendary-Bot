@@ -1,0 +1,31 @@
+__LEGENDARY BOT__
+> Perfect bot for your discord!
+
+What data are we collecting?
+- Account related information and server related information
+- Interaction related data
+- Message related data
+
+How will we use your data?
+- We will use the data to improve the services and make it easier to use the bot itself
+
+Who we share any data with
+- We do not share data with anybody
+- We do not sell data
+
+Where is the data stored?
+- The data is stored at Keks Hosting
+
+How do we collect the data?
+- Discord API
+
+What kind of stuff do we store via the Discord API?
+- Channel Ids
+- Guild Ids
+- User Ids
+
+Your rights
+- Deletion: You are able to delete the data we collected from you
+
+Contact:
+- Support Server: https://discord.gg/zZjXxYQcUv
