@@ -4,18 +4,17 @@
 
 ## Overview
 
-Dat Bot is a feature-rich Discord bot:
+The Legendary Bot is a functional and useful Discord bot:
 
-> Leveling, Entertainment, Utility, Social Media Notifications, Fun, Moderation and much more.
+> Level System,Boost messages
 
-> The bot is for free with only a few limitations. If you need a higher limit, contact the [Support Server](https://discord.gg/BQumAujuvk).
->
-> The bot is in active development and hosted by [Endelon Hosting](https://endelon-hosting.de).
+> Almost all features are free of charge.
+> The bot has a unique and homemade design.
 
 ## Links
 
-> [Support](https://discord.gg/BQumAujuvk)
+> [Support]([https://discord.gg/BQumAujuvk](https://discord.gg/zZjXxYQcUv))
 
-> [Invite](https://discord.com/oauth2/authorize?client\_id=965903240384376872\&permissions=274878295233\&scope=applications.commands%20bot)
+> [Youtube Channel]([https://www.youtube.com/@legendarysocial])
 
-> [App Directory](https://discord.com/application-directory/965903240384376872)
+> [App Directory]([https://discord.com/application-directory/965903240384376872](https://discord.com/application-directory/1042779235703590913)https://discord.com/application-directory/1042779235703590913)
