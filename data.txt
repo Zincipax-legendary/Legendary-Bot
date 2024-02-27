@@ -14,7 +14,7 @@ Who we share any data with
 - We do not sell data
 
 Where is the data stored?
-- The data is stored at Keks Hosting
+- The data is stored at Novium Hosting
 
 How do we collect the data?
 - Discord API
