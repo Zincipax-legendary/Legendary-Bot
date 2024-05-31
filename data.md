@@ -39,4 +39,4 @@ By using Legendary, you agree to the terms outlined in this privacy policy.
 
 Thank you for trusting Legendary! 🙏
 
-🌟 The Legendary Team 🌟
+🌟 The Legendary Bot Team 🌟
