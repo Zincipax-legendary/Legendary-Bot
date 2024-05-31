@@ -1,6 +1,6 @@
 # Privacy Policy for Legendary
 
-🛡️ **Welcome to Legendary!** 🤖
+🛡️ **Welcome to the Legendary Bot!** 🤖
 
 This privacy policy describes how we handle and protect your data when you use our Discord bot.
 
