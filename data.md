@@ -1,31 +1,40 @@
-__LEGENDARY BOT__
-> Perfect bot for your discord!
+# Privacy Policy for Legendary
 
-What data are we collecting?
-- Account related information and server related information
-- Interaction related data
-- Message related data
+Welcome to Legendary! This privacy policy describes how we handle and protect your data when you use our Discord bot.
 
-How will we use your data?
-- We will use the data to improve the services and make it easier to use the bot itself
+## 1. Data Collection
+Legendary collects the following data:
+- **User IDs**: Unique identifiers for users interacting with the bot.
+- **Guild IDs**: Unique identifiers for servers where the bot is added.
 
-Who we share any data with
-- We do not share data with anybody
-- We do not sell data
+## 2. Data Usage
+The collected data is used to provide and improve the bot's functionality, including but not limited to:
+- Identifying users to personalize bot responses.
+- Managing bot settings and commands within different servers.
 
-Where is the data stored?
-- The data is stored at Novium Hosting
+## 3. Data Storage
+- **Duration**: The data is stored indefinitely unless manually removed by the user or server administrator.
+- **Security**: We take reasonable measures to protect your data from unauthorized access, disclosure, alteration, or destruction.
 
-How do we collect the data?
-- Discord API
+## 4. Data Deletion
+Users and server administrators can remove their data as follows:
+- Using specific bot commands designed for data deletion.
+- Removing the bot from the server, which will delete the associated server data.
 
-What kind of stuff do we store via the Discord API?
-- Channel Ids
-- Guild Ids
-- User Ids
+## 5. Data Sharing
+We do not share your data with any third parties. All data is securely stored and is only accessible to authorized personnel for maintaining and improving the bot.
 
-Your rights
-- Deletion: You are able to delete the data we collected from you
+## 6. Hosting
+Legendary is self-hosted, which means all data is stored on our private servers. This ensures a higher level of security and control over your data.
 
-Contact:
-- Support Server: https://discord.gg/gABMp3fdxm
+## 7. Changes to This Privacy Policy
+We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page. You should review this privacy policy periodically to stay informed about any changes.
+
+## 8. Contact
+If you have any questions or concerns about this privacy policy or our data practices, please contact us on our Discord server through ticket support ([discord.gg/legendaryhome](https://discord.gg/legendaryhome)).
+
+By using Legendary, you agree to the terms outlined in this privacy policy.
+
+Thank you for trusting Legendary!
+
+The Legendary Team
