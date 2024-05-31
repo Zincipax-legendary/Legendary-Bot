@@ -1,6 +1,8 @@
 # Privacy Policy for Legendary
 
-Welcome to Legendary! This privacy policy describes how we handle and protect your data when you use our Discord bot.
+🛡️ **Welcome to Legendary!** 🤖
+
+This privacy policy describes how we handle and protect your data when you use our Discord bot.
 
 ## 1. Data Collection
 Legendary collects the following data:
@@ -35,6 +37,6 @@ If you have any questions or concerns about this privacy policy or our data prac
 
 By using Legendary, you agree to the terms outlined in this privacy policy.
 
-Thank you for trusting Legendary!
+Thank you for trusting Legendary! 🙏
 
-The Legendary Team
+🌟 The Legendary Team 🌟
