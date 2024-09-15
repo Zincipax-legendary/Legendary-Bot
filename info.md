@@ -4,12 +4,9 @@
 
 ## Overview
 
-The Legendary Bot is a functional and useful Discord bot:
+The Legendary Bot is a modern Discord bot with unique features and designs. Its goal is to be an all-in-one solution, allowing users to manage everything with a single bot. Best of all, all features are 100% free.
 
-> Level system,Boost system, Welcome system, Security system, 2 languages and more...
 
-> Almost all features are free of charge.
-> The bot has a unique and homemade design.
 
 ## Links
 
