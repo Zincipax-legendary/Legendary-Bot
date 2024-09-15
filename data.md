@@ -1,6 +1,6 @@
 # Privacy Policy for Legendary
 
-🛡️ **Welcome to the Legendary Bot!** 🤖
+🛡️ **Welcome to Legendary Bot!** 🤖
 
 This privacy policy describes how we handle and protect your data when you use our Discord bot.
 
@@ -21,7 +21,6 @@ The collected data is used to provide and improve the bot's functionality, inclu
 ## 4. Data Deletion
 Users and server administrators can remove their data as follows:
 - Using specific bot commands designed for data deletion.
-- Removing the bot from the server, which will delete the associated server data.
 
 ## 5. Data Sharing
 We do not share your data with any third parties. All data is securely stored and is only accessible to authorized personnel for maintaining and improving the bot.
@@ -33,7 +32,7 @@ Legendary is self-hosted, which means all data is stored on our private servers.
 We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page. You should review this privacy policy periodically to stay informed about any changes.
 
 ## 8. Contact
-If you have any questions or concerns about this privacy policy or our data practices, please contact us on our Discord server through ticket support ([discord.gg/legendaryhome](https://discord.gg/legendaryhome)).
+If you have any questions or concerns about this privacy policy or our data practices, please contact us via email at support@legendary-bot.com or through our Discord server's ticket support ([https://discord.gg/SR95d5GRhD](https://discord.gg/SR95d5GRhD)).
 
 By using Legendary, you agree to the terms outlined in this privacy policy.
 
