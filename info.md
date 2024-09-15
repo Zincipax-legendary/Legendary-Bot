@@ -12,6 +12,4 @@ The Legendary Bot is a modern Discord bot with unique features and designs. Its 
 
 > [Support](https://discord.gg/BQumAujuvk)
 
-> [Youtube Channel](https://www.youtube.com/@legendarysocial)
-
 > [App Directory](https://discord.com/application-directory/1042779235703590913)
