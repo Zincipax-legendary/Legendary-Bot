@@ -1,4 +1,4 @@
-# Privacy Policy for Legendary
+# Privacy Policy for the Legendary Bot
 
 🛡️ **Welcome to Legendary Bot!** 🤖
 
